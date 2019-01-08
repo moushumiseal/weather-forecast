@@ -1,7 +1,8 @@
 1. Create Mysql database
 
+```bash
 create database weather_forcast_db
-
+```
 
 2. Change mysql username and password as per your installation.
 
