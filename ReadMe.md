@@ -25,3 +25,4 @@ The app will start running at <http://localhost:8080>.
 
 You can test them using postman or any other rest client.
 
+The weather API consumed by this application is <https://openweathermap.org/api>.
